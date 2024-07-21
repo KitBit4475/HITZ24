@@ -1,4 +1,4 @@
-const RADIO_NAME = 'Y106 Miami';
+const RADIO_NAME = 'HITZ24 Miami';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/usn5mhezvhluv';
